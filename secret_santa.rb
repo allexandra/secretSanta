@@ -84,4 +84,4 @@ while array.length > 0
   puts "Press enter to start the game:"
   gets.chomp
 end
-puts "Bye!"
+puts "Bye! B!"
